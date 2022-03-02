@@ -22,4 +22,3 @@ mark.speak();
 const Jobs=new Person('Jobs', '-1');
 
 console.log(Jobs.name);
-
